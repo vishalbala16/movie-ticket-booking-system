@@ -186,3 +186,9 @@ python demo.py
 ## Support
 
 For issues or questions, please check the API documentation at `/swagger/` or contact the development team.
+
+##Output
+<img width="1866" height="886" alt="out 1" src="https://github.com/user-attachments/assets/2fd0e2e7-61ee-41a6-b0bb-d55cd5d7592f" />
+<img width="1845" height="882" alt="out 2" src="https://github.com/user-attachments/assets/78820afc-f280-4ad6-9a72-bc16f4b653a5" />
+<img width="1837" height="880" alt="out 3" src="https://github.com/user-attachments/assets/b9be6d16-508a-40bf-9c61-086c54d8780a" />
+
