@@ -171,38 +171,16 @@ Access the Django admin at `http://127.0.0.1:8000/admin/` to manage:
 - Bookings
 - Users
 
-## Troubleshooting
+## Testing
 
-### Common Issues
-
-1. **Server won't start**
-   ```bash
-   python start_test.py  # Run diagnostics
-   ```
-
-2. **No sample data**
-   ```bash
-   python manage.py populate_data
-   ```
-
-3. **Database issues**
-   ```bash
-   python manage.py migrate
-   ```
-
-4. **Import errors**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Quick Start (Windows)
+Run the test suite:
 ```bash
-double-click run_project.bat
+python manage.py test
 ```
 
-### Verification
+Run demo script:
 ```bash
-python verify_setup.py  # Check all components
+python demo.py
 ```
 
 ## Support
